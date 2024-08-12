@@ -1,6 +1,6 @@
 # Titanic---Machine-Learning-from-Disaster
 
-This is an exercise of using machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-The jupytor notebook file contains the process of data manipulation, data analysis and building model
-A gradient boost tree model that I built archieve 91% accuracy by evaluating the test data set
+This is an exercise of using machine learning to create a model that predicts which passengers survived the Titanic shipwreck.(`<br>`)
+The jupytor notebook file contains the process of data manipulation, data analysis and building model(`<br>`)
+A gradient boost tree model that I built archieve 91% accuracy by evaluating the test data set(`<br>`)
 Data Source: https://www.kaggle.com/competitions/titanic/data
